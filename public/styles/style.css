@@ -1,0 +1,49 @@
+/* body {
+  font-size: 62.5%;
+  font-family: arial, sans-serif;
+} */
+
+#theCarousel {
+  width: 60%;
+  height: 60%;
+  position: relative;
+  left: 19%;
+}
+
+/* .jumbotron photo {
+  position: relative;
+}
+#theCarousel {
+  height: 60%;
+  width: 60%;
+  position: absolute;
+  left: 50%;
+  margin-left: -50px;
+  top: 50%;
+  margin-top: -50px;
+} */
+
+.jumbotron {
+  padding: 20px;
+  line-height: 25px;
+  background-color: #ddd;
+}
+
+.jumbotron p {
+  font-size: 17px;
+  /* font-weight: bold; */
+}
+
+.jumbotron h2 {
+  font-size: 20px;
+  line-height: 1;
+}
+
+hr {
+  /* border: 0; */
+  clear: both;
+  display: block;
+  width: 100%;
+  background-color: black;
+  height: 1px;
+}
