@@ -9,6 +9,7 @@ Next steps:
 - Mobile
 - Accessiblity first
 - Jumbotron should house nav bar
+- testing
 
 
 ### Initial Setup:
