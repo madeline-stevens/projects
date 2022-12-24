@@ -4,13 +4,11 @@ Testing
 
 Next steps:
 
-- Fix broken page links
 - Afix footer to bottom
-- Mobile
+- Mobile (done but double check)
 - Accessiblity first
-- Jumbotron should house nav bar
 - Blog should open in a seperate tab
-- password protected
+- password protected?
 
 ### Initial Setup:
 
