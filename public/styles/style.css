@@ -1,41 +1,29 @@
-/* body {
-  font-size: 62.5%;
-  font-family: arial, sans-serif;
-} */
+h2 {
 
-#theCarousel {
-  width: 60%;
-  height: 60%;
-  position: relative;
-  left: 19%;
 }
 
-/* .jumbotron photo {
-  position: relative;
+@media screen and (min-width: 768px) {
+  .jumbotron {
+    padding-top: 20px;
+    padding-bottom: 70px;
+    /* font-size: 20px; */
+    /* font-weight: bold; */
+  }
 }
-#theCarousel {
-  height: 60%;
-  width: 60%;
-  position: absolute;
-  left: 50%;
-  margin-left: -50px;
-  top: 50%;
-  margin-top: -50px;
-} */
 
-.jumbotron {
-  padding: 20px;
+/* .jumbotron {
   line-height: 25px;
   background-color: #ddd;
-}
+} */
 
 .jumbotron p {
   font-size: 17px;
   /* font-weight: bold; */
 }
 
+
 .jumbotron h2 {
-  font-size: 20px;
+  font-size: 15px;
   line-height: 1;
 }
 

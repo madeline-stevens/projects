@@ -9,8 +9,8 @@ Next steps:
 - Mobile
 - Accessiblity first
 - Jumbotron should house nav bar
-- testing
-
+- Blog should open in a seperate tab
+- password protected
 
 ### Initial Setup:
 
