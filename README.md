@@ -3,14 +3,11 @@
 Testing
 
 Next steps:
-
-- Afix footer to bottom
-- Mobile (done but double check)
 - Accessiblity first
 - Blog should open in a seperate tab
 - password protected?
 
-### Initial Setup:
+### Initial Setup:vvv
 
 #### Preview your app
 
