@@ -1,13 +1,11 @@
 # projects
 
-Testing
-
 Next steps:
 - Accessiblity first
 - Blog should open in a seperate tab
 - password protected?
 
-### Initial Setup:vvv
+### Initial Setup:
 
 #### Preview your app
 
