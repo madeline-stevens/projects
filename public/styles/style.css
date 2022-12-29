@@ -1,24 +1,23 @@
-@media screen and (min-width: 768px) {
+/* @media screen and (min-width: 768px) {
   .jumbotron {
-    padding-top: 20px;
-    padding-bottom: 70px;
+    padding-top: 7px;
+    padding-bottom: 50px;
     /* font-size: 20px; */
     /* font-weight: bold; */
-  }
-}
+  /* }
+} */
 
-.jumbotron p {
-  font-size: 17px;
-  /* font-weight: bold; */
-}
-
-
-.jumbotron h2 {
+/* .jumbotron h2 {
   font-size: 15px;
   line-height: 1;
 }
 
-footer {
+.col {
+  position: 
+} */ */
+
+
+/* footer {
   position: fixed;
   left: 0;
   bottom: 50px;
@@ -28,12 +27,12 @@ footer {
   width: 100%;
   background-color: black;
   height: 1px;
-}
+} */
 
-.row {
+/* .row {
   position: fixed;
   left: 0;
   bottom: 0;
   width: 100%; 
 
-}
+} */
