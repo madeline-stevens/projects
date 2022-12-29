@@ -1,13 +1,11 @@
 # projects
 
-Testing
-
 Next steps:
 - Accessiblity first
 - Blog should open in a seperate tab
 - password protected?
 
-### Initial Setup:vvv
+### Initial Setup:
 
 #### Preview this app using node.js (for me this shows up as localhost:8080)
 
