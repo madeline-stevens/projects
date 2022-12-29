@@ -9,7 +9,7 @@ Next steps:
 
 ### Initial Setup:vvv
 
-#### Preview your app
+#### Preview this app using node.js (for me this shows up as localhost:8080)
 
 Within terminal, in the root of this project folder type:
 
