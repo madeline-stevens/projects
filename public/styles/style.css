@@ -7,20 +7,15 @@
    }
 }
 
-.img-responsive {
-  max-width: 100%;
-  height: auto;
+a {
+  text-decoration: none;
 }
 
+.navbar-nav{
+  text-align: right;
+} 
 
-/* .jumbotron h2 {
-  font-size: 15px;
-  line-height: 1;
-}
 
-.col {
-  position: 
-} */ */
 
 
 /* footer {
