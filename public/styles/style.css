@@ -7,13 +7,33 @@
    }
 }
 
-
 .img-responsive {
   max-width: 100%;
   height: auto;
 }
 
-/* klipson images grid*/
+
+
+/* first draft project rows */
+.col {
+  border: 1px solid #BEBEBE;
+  padding: 8px 10px;
+  background-color: #EBECF0;
+  
+}
+
+.wrap{
+  display:flex;
+  }
+
+  .wrap-container{
+    border:1px solid black;
+    text-align:center;
+    width:50%;
+    margin-right:5px;
+    }
+
+    /* klipson images grid*/
 .row {
   display: -ms-flexbox; /* IE10 */
   display: flex;
@@ -22,7 +42,7 @@
   padding: 0 4px;
 }
 
-/* Create four equal columns that sits next to each other */
+/* Klipsun-- Create 2 equal columns that sits next to each other */
 .column {
   -ms-flex: 50%; /* IE10 */
   flex: 50%;

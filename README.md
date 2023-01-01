@@ -197,8 +197,7 @@ Changed to:
 
 ### Resources
 
-Bootstrap in general (carousel, etc)- https://www.youtube.com/watch?v=gqOEoUR5RHg  
-Bootstrap carousel (deeper dive)- https://www.youtube.com/watch?v=R0nkkXkrby0  
+Project columns- https://www.w3schools.com/bootstrap4/tryit.asp?filename=trybs_grid_examples1&stacked=h
 Rounding corners for about the team- https://codepen.io/Madeline206/pen/JZPmMY?editors=1100  
 Resizing jumbotron- https://www.codecademy.com/en/forum_questions/5398ac97282ae39e8d000be6  
 Bootstrap contact us- https://bootsnipp.com/snippets/featured/contact-us  
