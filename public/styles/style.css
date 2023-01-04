@@ -12,7 +12,13 @@
   height: auto;
 }
 
-
+.outline {
+  border: 1px solid #BEBEBE;
+  padding: 8px;
+  margin: 8px;
+  background-color: #EBECF0;
+  border-radius:  5px;
+}
 
 /* first draft project rows */
 .col {
