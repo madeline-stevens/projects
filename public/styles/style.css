@@ -4,7 +4,7 @@
     padding-bottom: 50px;
     font-size: 20px;
     /* font-weight: bold; */
-   }
+  }
 }
 
 .img-responsive {
@@ -26,7 +26,7 @@
   display:flex;
   }
 
-  .wrap-container{
+  .border {
     border:1px solid black;
     text-align:center;
     width:50%;
