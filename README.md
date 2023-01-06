@@ -1,8 +1,8 @@
 # projects
 
 Next steps:
-- Accessiblity first
-- Blog should open in a seperate tab
+- Photo layouts
+- Accessiblity audit case studys
 - password protected?
 
 ### Initial Setup:
@@ -61,6 +61,8 @@ At the bottom within my CDN scripts section:
 #### Heroku:
 
 Setting up heroku environment.
+
+
 
 Attempting to use the php fix again (resource- https://www.youtube.com/watch?v=IVvU9JF6o8s):
 
