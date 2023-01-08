@@ -2,6 +2,7 @@
 
 Next steps:
 - Photo layouts
+- Edit all image alt text
 - Accessiblity audit case studys
 - password protected?
 
@@ -81,7 +82,20 @@ Ran into the issue of jquery not being recognized despite the CDN's script at th
   },
 ```
 
-### Fixed
+### Helpful Code Snippets
+
+#### Code for adding a Bootstrap button that will redirect to an ousdide link
+
+```
+<div class="d-grid gap-2 d-md-flex justify-content-md-end">
+  <a class="btn btn-primary mx-auto" href="https://medium.com/p/44acf5b65a3/edit" role="button">Read More
+  </a>
+</div>
+```
+
+
+
+### Fixed for Coding Falcons________
 
 #### A merge conflict due to editing the readme on github, that seemed to all of a sudden fix itself:
 
@@ -140,7 +154,9 @@ page("/", app.homeController.home);
 page();
 ```
 
-### ARIA
+
+
+### ARIA__________
 
 #### ARIA attributes added to html attributes:
 
