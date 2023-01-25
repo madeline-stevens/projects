@@ -1,6 +1,11 @@
 # projects
 
 Next steps:
+- link to the other blogs
+- styling project boxes
+- plan out case study
+- explore the DSA style/design guide
+
 - Photo layouts
 - Edit all image alt text
 - Accessiblity audit case studys
