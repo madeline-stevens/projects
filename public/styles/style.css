@@ -4,7 +4,9 @@ h1 {
 font-family: 'Roboto Condensed', sans-serif;
 } */
 
-
+.meta-title {
+  font-size: 140%;
+}
 
 .img-responsive {
   width: 100%;
