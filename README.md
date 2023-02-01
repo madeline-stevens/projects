@@ -2,6 +2,7 @@
 
 Next steps:
 
+- Working on connecting to Azure
 - explore the DSA style/design guide
 - Edit all image alt text
 - password protected?
