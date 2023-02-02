@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Application to share information about our coding falcons school and summer code classes.",
   "main": "server.js",
+  "engines": {
+    "node": ">=19.0.0"
+}
+
   "scripts": {
     "start": "node server.js",
     "watch": "nodemon server.js",
