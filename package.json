@@ -4,7 +4,7 @@
   "description": "Application to share information about our coding falcons school and summer code classes.",
   "main": "server.js",
   "engines": {
-    "node": ">=16.0.0"
+    "node": ">=19.0.0"
 },
 
   "scripts": {
