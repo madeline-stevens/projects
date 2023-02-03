@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/68e76765-73ed-4c91-a716-a6d8a783acdc/AppServices/subscriptions/68e76765-73ed-4c91-a716-a6d8a783acdc/resourceGroups/madelinestevens_group/providers/Microsoft.Web/sites/madelinestevens",
+    "appService.deploySubpath": "."
+}
