@@ -1,7 +1,7 @@
 {
   "name": "projects",
   "version": "1.0.0",
-  "description": "Application to share information about our coding falcons school and summer code classes.",
+  "description": "Portfolio website showcasing accessibility audits, teaching, and writing.",
   "main": "server.js",
   "engines": {
     "node": ">=16.0.0 <18"
