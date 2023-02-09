@@ -12,6 +12,8 @@ Next steps:
 
 New setup:
 
+#### To view app on localhost:3000 
+
 ```
 DEBUG=myexpressapp:* npm start
 ```
