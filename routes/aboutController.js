@@ -1,29 +1,27 @@
 'use strict';
 
-var app = app || {};
+var express = require('express');
+var router = express.Router();
 
-(function(module) {
-  const aboutController = {};
+/* GET about page. */
+router.get('/about', function(req, res, next) {
+  res.render('index', { title: 'Express' });
+});
 
-  aboutController.about = () => {
-    $('.tab-content').hide();
-    $('#about').show();
-
-  };
-  module.aboutController = aboutController;
-})(app);
+module.exports = router;
 
 
-
-// 'use strict';
 // var app = app || {};
+
 // (function(module) {
-//   const aboutController = {
-//   };
-//   aboutController.about = function () {
+//   const aboutController = {};
+
+//   aboutController.about = () => {
 //     $('.tab-content').hide();
 //     $('#about').show();
+
 //   };
-//   // DONE: Define a function that hides all main section elements, and then reveals just the #about section:
 //   module.aboutController = aboutController;
 // })(app);
+
+
