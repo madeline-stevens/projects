@@ -2,8 +2,6 @@
 
 Next steps:
 
-- removed all duplicate project files now trying to commit 
-- Working on connecting to Azure
 - explore the DSA style/design guide
 - Edit all image alt text
 - password protected?
