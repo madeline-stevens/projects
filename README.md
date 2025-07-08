@@ -3,7 +3,6 @@
 Next steps:
 
 - Edit all image alt text
-- password protected?
 
 ### Initial Setup:
 
